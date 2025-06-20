@@ -4,7 +4,7 @@
     "nom": "Accompagnement éducatif et social",
     "niveau": 3.0,
     "lien": "https://www.faire-ess.fr/fr/accompagnant-educatif-et-social",
-    "la capacité à s’organiser": false,
+    "la capacité à s’organiser": true,
     "l’adaptabilité": true,
     "l’autonomie": false,
     "le sens des responsabilités": false,
