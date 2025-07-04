@@ -33,7 +33,8 @@ Ouvrez le fichier `index.html` dans un navigateur pour afficher la liste des for
     "nom_complet": "Titre professionnel de développeur web et web mobile",
     "nom_abrege": "TP DWWM",
     "niveau": "niveau 5",
-    "softskills": ["autonomie", "créativité", "esprit d'équipe"]
+    "softskill 1": true,
+    "softskill 2": false...
   }
 ]
 ```
