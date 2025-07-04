@@ -48,7 +48,3 @@ dataFormations/
 ├── index.html           # Visualisation des données
 └── README.md            # Documentation du projet
 ```
-
-## 🤝 Contribuer
-
-Les contributions sont les bienvenues ! Si vous souhaitez ajouter une formation ou corriger une information, n'hésitez pas à ouvrir une *issue* ou à soumettre une *pull request*.
