@@ -48,3 +48,10 @@ dataFormations/
 ├── index.html           # Visualisation des données
 └── README.md            # Documentation du projet
 ```
+
+## 👀 Visualisation
+
+Pour visualiser les données des formations, vous pouvez consulter la page de visualisation en ligne ici :  
+[Visualiser les formations](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Alec34pi/dataFormations/ma-premiere-branche/visualisation.html)
+
+---
