@@ -25,7 +25,7 @@ Les données présentes dans `formations.json` sont directement exploitées dans
 
 Ouvrez le fichier `index.html` dans un navigateur pour afficher la liste des formations et explorer les données intégrées au JSON.
 
-## 🚀 Exemple de structure JSON
+## Exemple de structure JSON
 
 ```json
 [
